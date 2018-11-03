@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "UpToDate Extractor",
+  "version": "1.0.0",
+
+  "description": "A simple webextension to extract citations from UpToDate.",
+
+  "icons": {
+    "48": "assets/img/logo.svg",
+    "96": "assets/img/logo.svg"
+  },
+  "browser_action": {
+    "default_icon": "assets/img/logo.svg",
+    "default_title": "UpToDate Extractor",
+    "default_popup": "app.html"
+  },
+  "permissions": ["activeTab"]
+}
