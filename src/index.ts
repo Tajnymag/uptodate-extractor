@@ -1,5 +1,6 @@
 import Tab = browser.tabs.Tab;
 
+/**
 function protocolIsApplicable(url: string | undefined) {
   return url === 'https://www.uptodate.com/home';
 }
@@ -18,3 +19,4 @@ function initializePageAction(tab: Tab) {
 browser.tabs.onUpdated.addListener((id, changeInfo, tab) => {
   initializePageAction(tab);
 });
+**/
