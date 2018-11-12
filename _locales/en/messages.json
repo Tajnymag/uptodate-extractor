@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "UpToDate Extractor",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "A simple webextension to extract citations from UpToDate.",
+    "description": "Description of the extension."
+  },
+  "hoverDescription": {
+    "message": "Copy bibliographical data to clipboard",
+    "description": "Message shown, when user hovers over the addon's icon."
+  },
+  "loadingMessage": {
+    "message": "Please wait...",
+    "description": "A placeholder message shown before getting any response from content-scipt"
+  },
+  "copySuccess": {
+    "message": "CSL Bibliography has been successfully copied to clipboard!",
+    "description": "Message shown, when both extraction and copying to clipboard succeed."
+  },
+  "copyError": {
+    "message": "Bibliography could not be copied to clipboard!",
+    "description": "Message shown, when error occurs during copying to clipboard."
+  }
+}

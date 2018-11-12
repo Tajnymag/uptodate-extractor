@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "UpToDate Extractor",
+  "name": "__MSG_extensionName__",
   "version": "1.0.0",
-  "description": "A simple webextension to extract citations from UpToDate.",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
   "icons": {
     "48": "assets/img/logo.svg",
     "96": "assets/img/logo.svg"
@@ -12,9 +13,10 @@
   },
   "page_action": {
     "default_icon": "assets/img/logo.svg",
-    "default_title": "UpToDate Extractor",
+    "default_title": "__MSG_hoverDescription__",
     "default_popup": "app.html",
+    "browser_style": true,
     "show_matches": ["https://www.uptodate.com/contents/*"]
   },
-  "permissions": ["activeTab"]
+  "permissions": ["activeTab", "clipboardWrite"]
 }

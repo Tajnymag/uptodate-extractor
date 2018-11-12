@@ -1,0 +1,45 @@
+[
+	{
+		"id": "http://zotero.org/users/local/hDbEQ86V/items/T3F27LN2",
+		"type": "chapter",
+		"title": "Screening for depression in adults",
+		"container-title": "UpToDate",
+		"publisher-place": "Waltham, MA",
+		"event-place": "Waltham, MA",
+		"URL": "https://www.uptodate.com/contents/screening-for-depression-in-adults",
+		"author": [
+			{
+				"family": "Williams",
+				"given": "John",
+				"suffix": "MD"
+			},
+			{
+				"family": "Nieuwsma",
+				"given": "Jason",
+				"suffix": "PhD"
+			}
+		],
+		"editor": [
+			{
+				"family": "Post",
+				"given": "TW"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					10
+				]
+			]
+		}
+	}
+]

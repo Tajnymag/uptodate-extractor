@@ -1,0 +1,9 @@
+{
+  "name": "citation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "citation-js": "^0.4.0-10"
+  }
+}

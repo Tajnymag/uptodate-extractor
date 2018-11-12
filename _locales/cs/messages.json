@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "UpToDate Extractor",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Jednoduchý doplněk sloužící k extrakci citačních dat z UpToDate",
+    "description": "Description of the extension."
+  },
+  "hoverDescription": {
+    "message": "Zkopírovat bibliografii do schránky",
+    "description": "Message shown, when user hovers over the addon's icon."
+  },
+  "loadingMessage": {
+    "message": "Vyčkejte prosím...",
+    "description": "A placeholder message shown before getting any response from content-scipt"
+  },
+  "copySuccess": {
+    "message": "CSL bibliografie byla zkopírována do schránky!",
+    "description": "Message shown, when both extraction and copying to clipboard succeed."
+  },
+  "copyError": {
+    "message": "Bibliografii se nepodařilo zkopírovat do schránky!",
+    "description": "Message shown, when error occurs during copying to clipboard."
+  }
+}
