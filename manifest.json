@@ -8,9 +8,6 @@
     "48": "assets/img/logo.svg",
     "96": "assets/img/logo.svg"
   },
-  "background": {
-    "scripts": ["dist/bundle.js"]
-  },
   "page_action": {
     "default_icon": "assets/img/logo.svg",
     "default_title": "__MSG_hoverDescription__",
