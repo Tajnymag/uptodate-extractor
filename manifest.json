@@ -13,7 +13,10 @@
     "default_title": "__MSG_hoverDescription__",
     "default_popup": "app.html",
     "browser_style": true,
-    "show_matches": ["https://www.uptodate.com/contents/*"]
+    "show_matches": [
+      "https://www.uptodate.com/contents/*",
+      "https://www-uptodate-com.ezproxy.is.cuni.cz/contents/*"
+    ]
   },
   "permissions": ["activeTab", "clipboardWrite"]
 }
